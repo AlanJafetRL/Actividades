@@ -121,3 +121,13 @@ void setup() {
 void loop() {
   // Execution should never get here
 }
+
+
+/*
+---Funcionamiento---
+Se tienen 2 tareas, una que lee lo que recibe el puerto serial y otra que imprime en el monitor
+lo que se recibió. Sin embargo, la tarea dos (de escritura) no envía nada al monitor hasta que una bandera
+en la tarea de lectura indica que se ha leido el mensaje desde la memoria buffer.
+El tamaño del buffer es de 255 bits, por tanto, si la cadena de caracteres enviada supera los
+255 bits, esta no se guardará y no se procesará
+*/
