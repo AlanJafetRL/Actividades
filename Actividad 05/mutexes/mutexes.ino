@@ -82,5 +82,5 @@ una tarea pueda accesar a los recursos de mutex cuando otra ya lo está haciendo
 espere por unos ticks hasta que mutex se encuentre libre, es un funcionamiento similar a los queue, pero
 ahora permitiendo que varias tareas puedan esperar a mutex sin provocar una cola llena como con queue.
 El programa es un simple contador que va incrementando su valor e imprimiendolo con retardos 
-aleatorios que van de los 100 a los 500ms
+aleatorios que van de los 100 a los 500ms.
 */

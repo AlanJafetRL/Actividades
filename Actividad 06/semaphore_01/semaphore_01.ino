@@ -13,7 +13,7 @@ static const int led_pin = /*Aqui*/;
 // variable global
 static SemaphoreHandle_t bin_sem;
 
-//*****************************************************************************
+//***************************************************************************
 // Tareas
 
 // Blink LED con base a la tasa predefinida 

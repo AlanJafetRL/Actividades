@@ -13,7 +13,7 @@ static const uint8_t msg_queue_len = 1; //Valor a modificar para reducir cuánta
 // Globals
 static QueueHandle_t msg_queue;
 
-//*****************************************************************************
+//**************************************************************************
 // Tasks
 
 void printMessages(void *parameters) {

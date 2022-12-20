@@ -10,7 +10,7 @@
 static TimerHandle_t one_shot_timer = NULL;
 static TimerHandle_t auto_reload_timer = NULL;
 
-//*****************************************************************************
+//***************************************************************************
 // Callbacks
 
 // La función es llamada cuando el timer expira

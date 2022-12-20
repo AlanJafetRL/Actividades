@@ -17,7 +17,7 @@ typedef struct Message {
 // Variables globales 
 static SemaphoreHandle_t sem_params; // Conteo
 
-//*****************************************************************************
+//***************************************************************************
 // Tarea
 
 void myTask(void *parameters) {

@@ -12,7 +12,7 @@ static char char_aux[254];
 char incomingChar;
 int cont_char;
 
-//*****************************************************************************
+//***************************************************************************
 //Utilizando parte del códigos realizado en Actividad03-Ejercicio_02 
 //Lectura
 void lectura (void *parameter){

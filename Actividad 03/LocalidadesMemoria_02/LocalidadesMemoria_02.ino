@@ -81,6 +81,7 @@ void loop(){
 
 
 /*
+--Funcionamiento--
 El código está basado en el que se facilitó, sólo se elimina el uso del buffer simplificando un poco
 la comprensión del código. También se hace uso de menos variables.
 */

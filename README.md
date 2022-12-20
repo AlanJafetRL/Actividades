@@ -1,4 +1,6 @@
-			       INSTITUTO POLITÉCNICO NACIONAL
+			       
+				   
+				   INSTITUTO POLITÉCNICO NACIONAL
 Unidad Profesional Interdisciplinaria de Ingeniería Campus Zacatecas
 				       Zacatecas, Zacatecas
 
