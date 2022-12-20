@@ -1,19 +1,19 @@
 			       
 				   
 				  INSTITUTO POLITÉCNICO NACIONAL
-              Unidad Profesional Interdisciplinaria de Ingeniería Campus Zacatecas
+             Unidad Profesional Interdisciplinaria de Ingeniería Campus Zacatecas
 				       Zacatecas, Zacatecas
 
-				     Ingeniería en Mecatrónica
+				    Ingeniería en Mecatrónica
 
 
-			         Sistemas Operativos en Tiempo Real
+			        Sistemas Operativos en Tiempo Real
 				              3MM6
 
 
-					   Actividades
+					  Actividades
 
 
-			         Docente: Ramon Jaramillo Martínez
+			        Docente: Ramon Jaramillo Martínez
 
-			          Alumno: Alan Jafet Rojas López
+			         Alumno: Alan Jafet Rojas López
